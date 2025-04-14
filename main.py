@@ -7,7 +7,7 @@ from concurrent.futures import ThreadPoolExecutor
 import random
 from loguru import logger
 
-api_key = "CAP-19B2D2C3D08FD1325CA82490981EA13F"
+api_key = "CAPSOLVER_KEY"
 site_key = "0x4AAAAAAAyOAhZopAtgo73i"
 site_url = "https://hesap.zulaoyun.com/zula-giris-yap"
 checked_accounts = set()
