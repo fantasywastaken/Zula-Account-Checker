@@ -79,9 +79,8 @@ Captcha-solving and verification logic is fully request-based (no Selenium, Pupp
 ---
 
 ### ⚠️ Disclaimer
-This tool is for educational and ethical research purposes only.
-The developer is not responsible for any misuse.
-Always comply with your local laws and the terms of service of the platform.
+
+This project is for educational purposes only. Using third-party tools with Valorant may violate Riot Games' Terms of Service. Use at your own risk. The developer is not responsible for any account penalties that may occur.
 
 ---
 
