@@ -82,3 +82,9 @@ Captcha-solving and verification logic is fully request-based (no Selenium, Pupp
 This tool is for educational and ethical research purposes only.
 The developer is not responsible for any misuse.
 Always comply with your local laws and the terms of service of the platform.
+
+---
+
+### :rose: Special Thanks
+
+[itzgonza](https://github.com/itzgonza) for contributions and support
