@@ -8,6 +8,7 @@ It uses [CapSolver](https://capsolver.com/) to bypass Turnstile (Cloudflare) cha
 ---
 
 ### 🔍 Features
+
 - ✅ Full request-based login (no browser automation)
 - 🧠 Captcha solved via CapSolver (Turnstile support)
 - 📊 Fetches payment history and calculates total ZA used
